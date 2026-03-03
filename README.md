@@ -1,4 +1,8 @@
 # Correlation and regression for data analysis
+```
+NAME: SANTHOSH S
+REG.NO: 212224100052
+```
 # Aim : 
 
 To analyse given data using coeffificient of correlation and regression line
@@ -64,24 +68,11 @@ plt.ylabel("Y-Data")
 plt.legend(['Data points', 'Regression Line'])
 plt.show()
 ```
+## OUTPUT
+<img width="589" height="164" alt="Screenshot 2026-03-03 093201" src="https://github.com/user-attachments/assets/a8a5f90c-cadd-4f33-9e5f-6c21e90d7b4b" />
+<img width="757" height="576" alt="Screenshot 2026-03-03 093219" src="https://github.com/user-attachments/assets/08bde074-061c-4311-b96a-225a077e167a" />
 
-## Input
-```
-Enter the values of X separated by space  
-25 28 35 32 31 36 29 38 34 32
 
-Enter the values of Y separated by space  
-43 46 49 41 36 32 31 30 33 39
-```
-
-# Output 
-```
-[25 28 35 32 31 36 29 38 34 32]
-[43 46 49 41 36 32 31 30 33 39]
-10
-The Regression Y on X is Y = -0.664 ( X - 32.000) + 38.000
-```
-![alt text](OutputGraph.png)
 
 
 # Result
