@@ -1,8 +1,5 @@
-# Correlation and regression for data analysis
-```
-NAME: SANTHOSH S
-REG.NO: 212224100052
-```
+# DATE: 11/02/2026
+# EXP-03: Correlation and regression for data analysis
 # Aim : 
 
 To analyse given data using coeffificient of correlation and regression line
